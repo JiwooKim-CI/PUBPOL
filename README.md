@@ -45,9 +45,9 @@ PUBPOL6090_IncarcerationTrends - xls file contains incarceration rates for count
 
 PUBPOL6090_OpportunityAtlasCounty - dta file file contains 1246 observations for counties in the USA. The variable 'kfr_black_male_p25_1992' is used as our dependent variable. 
 
-PUBPOL6090_AnalysisData - dta file contains all variables and observations to produce our final results.
+PUBPOL6090_analysis_data - dta file contains all variables and observations to produce our final results.
 
 ### Analysis Folder
 PUBPOL6090_Dofile_Final - Stata Do files contain all the data generating process and cleaning process for the preliminary process.
 
-PUBPOL6090_(R FILE) - R file contains the codes and results to merge decennial census data to the master data and for the analysis parts such as running regressions and creating tables. 
+PUBPOL6090_data_analysis_code - R file contains the codes and results to merge decennial census data to the master data and for the analysis parts such as running regressions and creating tables. 
