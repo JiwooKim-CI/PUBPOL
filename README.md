@@ -1,7 +1,7 @@
 # PUBPOL - Effects of Racial Segregation and Economic Mobility 
 
 ## General Information
-Authors: Edoardo Di Vicenzo (Sociology, ed554@cornell.edu), Chae Kim (Sociology, ck763@cornell.edu), Jiwoo Kim (Human Ecology, jk2759@cornell.edu), Hazel Lee (Regional Science, yl3276@cornell.edu)
+Authors: Edoardo Di Vicenzo (Sociology, ed554@cornell.edu), Chae Kim (Sociology, ck763@cornell.edu), Jiwoo Kim (Psychology, jk2759@cornell.edu), Hazel Lee (Regional Science, yl3276@cornell.edu)
 
 Date of Data Collection: 2024-11-25 
 
