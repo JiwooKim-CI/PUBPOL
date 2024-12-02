@@ -1,4 +1,4 @@
-# PUBPOL - Effects of Racial Segregation and Economic Mobility 
+# PUBPOL - The Causal Effect of Racial Segregation on Household Income
 
 ## General Information
 Authors: Edoardo Di Vicenzo (Sociology, ed554@cornell.edu), Chae Kim (Sociology, ck763@cornell.edu), Jiwoo Kim (Psychology, jk2759@cornell.edu), Hazel Lee (Regional Science, yl3276@cornell.edu)
